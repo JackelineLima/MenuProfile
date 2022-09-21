@@ -1,0 +1,41 @@
+{
+    "group": [
+        {
+            "title": "Me ajuda",
+            "child": [
+                {
+                    "title": "Saiba mais sobre a tela inicial"
+                },
+                {
+                    "title": "Saiba mais sobre o pix"
+                },
+                {
+                    "title": "Como registrar a chave pix?"
+                },
+                {
+                    "title": "Por que o pix não aparece no meu aplicativo?"
+                }
+            ]
+        },
+        {
+            "title": "Meus dados",
+            "child": [
+                {
+                    "title": "Nome de Preferências"
+                },
+                {
+                    "title": "E-mail"
+                },
+                {
+                    "title": "Telefone"
+                },
+                {
+                    "title": "Endereço"
+                },
+                {
+                    "title": "Renda Mensal"
+                }
+            ]
+        }
+    ]
+}
